@@ -7,7 +7,6 @@ __pycache__/
 *.swo
 
 # Django specific files
-db.sqlite3
 *.log
 *.pot
 *.pyc
